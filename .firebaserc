@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-fire-95275": {
+      "hosting": {
+        "ang-fire": [
+          "ang-fire-95275"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-fire-95275"
+  }
+}
